@@ -24,6 +24,7 @@ img {
 }
 
 header {
+  background-color: rgb(180, 175, 175);
 }
 
 header a {
@@ -31,6 +32,7 @@ header a {
 }
 
 .container {
+  display: flex;
 }
 
 .btn {
